@@ -7,5 +7,9 @@ Installation
 
 ## Installation 
 
-How to install 
+How to install an apk
+
+### Download the file 
+
+Authorise the file 
 
